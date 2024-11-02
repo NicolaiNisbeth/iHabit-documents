@@ -1,6 +1,6 @@
 # PRIVACY NOTICE
 
-Thank you for choosing to be part of our community at iHabits (“Company”, “we”, “us”, “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at nicolai.nisbeth@gmail.com.
+Thank you for choosing to be part of our community at iHabit (“Company”, “we”, “us”, “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at nicolai.nisbeth@gmail.com.
 
 When you use our application, as the case may be (the “App”) and more generally, use any of our services (the “Services”, which include the App), we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.
 
@@ -9,7 +9,7 @@ This privacy notice applies to all information collected through our Services (w
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
 ## 1. WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?
-The iHabits app collects information necessary for its improvement. Your data is not shared with any other parties unless you consent to such sharing, or as required by law. We may disclose information when required by law or if we believe in good faith that such action is necessary to comply with legal obligations or protect our rights, safety, or property.
+The iHabit app collects information necessary for its improvement. Your data is not shared with any other parties unless you consent to such sharing, or as required by law. We may disclose information when required by law or if we believe in good faith that such action is necessary to comply with legal obligations or protect our rights, safety, or property.
 
 **Usage Information**: We use tracking analytics tools to collect information about how you use the app, such as pages visited, features used, and interactions. This information helps us improve the app performance and user experience. Analytics data is aggregated and anonymized to protect your privacy.
 
